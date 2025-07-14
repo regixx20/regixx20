@@ -1,17 +1,24 @@
-## Hi there 👋
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="50%"/>
+  <img src="banner.png" alt="My banner" width="75%"/>
 </p>
 
 <h1 align="center">Hi 👋🏾, I'm Régix</h1>
 <h3 align="center">Software engineer</h3>
 
-- 🔭 I’m currently working on **A lyrical interpretation engine that turns tracks into stories and visual experiences**
+## 🙋🏾‍♂️ About Me
 
-- 📫 How to reach me **mededjiregix20@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+I'm **Régix**, a passionate and versatile **software engineer** who loves turning complex ideas into elegant code and immersive user experiences.  
+
+🔭 I’m currently working on **A lyrical interpretation engine that turns tracks into stories and visual experiences**.
+
+📚 Lifelong learner always exploring new technologies, frameworks, and design principles. 
+
+🔧 I love building things that are useful, beautiful, and meaningful from backend APIs to front-end interfaces.  
+
+
+📫 How to reach me **mededjiregix20@gmail.com**
+
 <p><!-- Ajoute tes liens ici --></p>
 
 <h3 align="left">Languages and Tools:</h3>
