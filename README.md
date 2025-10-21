@@ -10,7 +10,7 @@
 
 I'm **Régix**, a passionate and versatile **software engineer** who loves turning complex ideas into elegant code and immersive user experiences.  
 
-🔭 I’m currently working on **My portfolio and deployments of my projects** : 🌐 <a href="https://ton-portfolio.com" target="_blank" rel="noreferrer"><b>Visit my portfolio</b></a>
+🔭 I’m currently working on **My portfolio and deployments of my projects** : 🌐 <a href="https://itsregix.vercel.app.com" target="_blank" rel="noreferrer"><b>Visit my portfolio</b></a>
 
 
 
