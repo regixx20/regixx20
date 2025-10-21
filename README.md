@@ -10,7 +10,7 @@
 
 I'm **Régix**, a passionate and versatile **software engineer** who loves turning complex ideas into elegant code and immersive user experiences.  
 
-🔭 I’m currently working on **A lyrical interpretation engine that turns tracks into stories and visual experiences**.
+🔭 I’m currently working on **My portfolio and deployments of my projects**.
 
 📚 Lifelong learner always exploring new technologies, frameworks, and design principles. 
 
