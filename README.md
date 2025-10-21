@@ -10,7 +10,10 @@
 
 I'm **Régix**, a passionate and versatile **software engineer** who loves turning complex ideas into elegant code and immersive user experiences.  
 
-🔭 I’m currently working on **My portfolio and deployments of my projects**.
+🔭 I’m currently working on **My portfolio and deployments of my projects** : n<p align="center">
+  🌐 <a href="https://ton-portfolio.com" target="_blank" rel="noreferrer"><b>Visit my portfolio</b></a>
+</p>
+
 
 📚 Lifelong learner always exploring new technologies, frameworks, and design principles. 
 
